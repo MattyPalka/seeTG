@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">SeeTG</string>
+    <string name="kosmata">Kosmata</string>
+    <string name="kosmata_address">ul. Piastowska</string>
+    <string name="kosmata_phone">555222111</string>
+    <string name="kopalnia">Zabytkowa Kopalnia Srebra</string>
+    <string name="kopalnia_address">ul. Szczęsc Boze</string>
+    <string name="kopalnia_phone">111 222 333</string>
+    <string name="brick">Brick</string>
+    <string name="brick_address">ul. Krakowska 18</string>
+    <string name="brick_phone_number">223 333 555</string>
+    <string name="gryfny">Gryfny Kafyj</string>
+    <string name="gryfny_address">ul. Rynek</string>
+    <string name="gryfny_phone_number">777 999 111</string>
+    <string name="ministerstwo">Ministerstwo Śledzia i Wódki</string>
+    <string name="ministerstwo_address">ul. Lompy</string>
+    <string name="ministerstwo_phone_number">224 662 055</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</string>
+    <string name="sherlock">Sherlock Restaurant &amp; Grill</string>
+    <string name="sherlock_address">ul. Rynek</string>
+    <string name="sherlock_phone_number">234 567 987</string>
+    <string name="category_drink">Drink</string>
+    <string name="category_see">See</string>
+    <string name="category_relax">Relax</string>
+    <string name="category_eat">Eat</string>
+    <string name="sztolnia">Sztolnia Czarnego Pstrąga</string>
+    <string name="sztolnia_address">Repty Śląskie</string>
+    <string name="sztolnia_phone">123 531 123</string>
+    <string name="dzwonnica">Dzwonnica</string>
+    <string name="dzwonnica_address">ul. Gliwicka</string>
+    <string name="dzwonnica_phone">000 000 000</string>
+</resources>
